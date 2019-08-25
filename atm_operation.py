@@ -1,4 +1,3 @@
-#  QUESTION 2_ Midterm_Exam_Pratical
 # This program is designed to show a transaction of a user on an automated teller machine(ATM) .
 
 #   This are the pre-determined variables of the account at the login; 4 digit Pin: 1234
